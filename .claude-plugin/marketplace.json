@@ -1,0 +1,12 @@
+{
+  "name": "unal-courses",
+  "description": "Tools for building UNAL Manizales engineering courses",
+  "owner": { "name": "Sam C" },
+  "plugins": [
+    {
+      "name": "course-kit",
+      "source": "./",
+      "description": "Course standard, templates, Marp theme, checker, and skills to write, review and illustrate sessions"
+    }
+  ]
+}

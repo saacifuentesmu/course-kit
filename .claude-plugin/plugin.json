@@ -1,0 +1,6 @@
+{
+  "name": "course-kit",
+  "version": "0.1.0",
+  "description": "Shared course standard for UNAL engineering courses: write sessions, build talk decks and review material against it.",
+  "author": { "name": "Sam C" }
+}
